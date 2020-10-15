@@ -74,7 +74,7 @@
 
 ## :wrench: 工具 
 
-- [Git](https://github.com/CyC2018/CS-Notes/blob/master/notes/Git.md)
+- [Git测试](https://github.com/CyC2018/CS-Notes/blob/master/notes/Git.md)
 - [Docker](https://github.com/CyC2018/CS-Notes/blob/master/notes/Docker.md)
 - [构建工具](https://github.com/CyC2018/CS-Notes/blob/master/notes/构建工具.md)
 - [正则表达式](https://github.com/CyC2018/CS-Notes/blob/master/notes/正则表达式.md)
